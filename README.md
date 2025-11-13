@@ -1,1 +1,1 @@
-# feed-management-system
+# social-media-feed-management-system
